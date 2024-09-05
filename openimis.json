@@ -15,6 +15,14 @@
       ],
       "intl": "fr-FR",
       "fileNames": "fr"
+    },
+    {
+      "languages": [
+        "pt",
+        "pt-ST"
+      ],
+      "intl": "pt-ST",
+      "fileNames": "pt"
     }
   ],
   "modules": [
@@ -101,6 +109,10 @@
     {
       "name": "AdminModule",
       "npm": "@openimis/fe-admin@git+https://github.com/openimis/openimis-fe-admin_js.git#develop"
+    },
+    {
+      "name": "LanguagePtModule",
+      "npm": "@openimis/fe-language_pt_st@git+https://github.com/dpssf-stp/openimis-fe-language_pt_st_js.git#develop"
     }
   ]
 }
