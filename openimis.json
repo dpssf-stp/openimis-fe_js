@@ -28,11 +28,11 @@
   "modules": [
     {
       "name": "CoreModule",
-      "npm": "@openimis/fe-core@git+https://github.com/openimis/openimis-fe-core_js.git#develop"
+      "npm": "@openimis/fe-core@git+https://github.com/dpssf-stp/openimis-fe-core_js.git#stp-changes"
     },
     {
       "name": "IndividualModule",
-      "npm": "@openimis/fe-individual@git+https://github.com/openimis/openimis-fe-individual_js.git#develop"
+      "npm": "@openimis/fe-individual@git+https://github.com/dpssf-stp/openimis-fe-individual_js.git#stp-changes"
     },
     {
       "name": "SocialProtectionModule",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AdminModule",
-      "npm": "@openimis/fe-admin@git+https://github.com/openimis/openimis-fe-admin_js.git#develop"
+      "npm": "@openimis/fe-admin@git+https://github.com/dpssf-stp/openimis-fe-admin_js.git#stp-changes"
     },
     {
       "name": "LanguagePtModule",
