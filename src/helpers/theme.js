@@ -71,7 +71,7 @@ const theme = createTheme({
   paper: {
     paper: {
       margin: 10,
-      backgroundColor: "#ECF4F1",
+      backgroundColor: "#B2D6C6",
     },
     header: {
       color: "#162C28",

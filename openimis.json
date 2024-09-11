@@ -36,7 +36,7 @@
     },
     {
       "name": "SocialProtectionModule",
-      "npm": "@openimis/fe-social_protection@git+https://github.com/openimis/openimis-fe-social_protection_js.git#develop"
+      "npm": "@openimis/fe-social_protection@git+https://github.com/dpssf-stp/openimis-fe-social_protection_js.git#stp-changes"
     },
     {
       "name": "OpenSearchReportsModule",
