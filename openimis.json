@@ -80,7 +80,7 @@
     },
     {
       "name": "ContributionPlanModule",
-      "npm": "@openimis/fe-contribution_plan@git+https://github.com/openimis/openimis-fe-contribution_plan_js.git#develop"
+      "npm": "@openimis/fe-contribution_plan@git+https://github.com/dpssf-stp/openimis-fe-contribution_plan_js.git#stp-changes"
     },
     {
       "name": "PaymentCycleModule",
@@ -100,7 +100,7 @@
     },
     {
       "name": "PayrollModule",
-      "npm": "@openimis/fe-payroll@git+https://github.com/openimis/openimis-fe-payroll_js.git#develop"
+      "npm": "@openimis/fe-payroll@git+https://github.com/dpssf-stp/openimis-fe-payroll_js.git#stp-changes"
     },
     {
       "name": "DeduplicationModule",
